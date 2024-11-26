@@ -25,5 +25,3 @@ Sempre em busca de novos aprendizados, gosto de me manter atualizado e pronto pa
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-rodrigues037&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezer-rodrigues037&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-![Snake animation](https://github.com/eliezer-rodrigues037/eliezer-rodrigues037/blob/output/github-contribution-grid-snake.svg)
