@@ -21,7 +21,7 @@ Sempre em busca de novos aprendizados, gosto de me manter atualizado e pronto pa
 </div>
 
 ## Status
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  <> (WIP - Generate 3D CONTRIBUTION - ![Status](./profile-3d-contrib/profile-night-rainbow.svg))
   
 
   
