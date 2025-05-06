@@ -30,7 +30,7 @@ Sempre em busca de novos aprendizados, gosto de me manter atualizado e pronto pa
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,javascript,typescript,css,html,react,nextjs,vite,tailwind,styledcomponents,nodejs,npm,yarn,express,nest,apollo,graphql,prisma,mongodb,mysql,postgres,redis,docker,aws,firebase,figma,jest,linux,regex,postman,vercel,discord,linkedin,gmail" />
 </a>
   <br />
 
