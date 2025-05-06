@@ -9,7 +9,7 @@ Também sou proficiente em **Docker** e **AWS**, aplicando soluções escalávei
 Sempre em busca de novos aprendizados, gosto de me manter atualizado e pronto para enfrentar novos desafios.
 
 
-## Minhas linguagems e ferramentas mais utilizadas:
+## Minhas principais linguagems e ferramentas mais utilizadas:
 <div>
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white">
